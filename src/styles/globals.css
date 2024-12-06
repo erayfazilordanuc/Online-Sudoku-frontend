@@ -33,13 +33,13 @@
 }
 
 .custom-btn {
-  @apply flex flex-row relative justify-center items-center outline-none;
+  @apply flex flex-row relative justify-center items-center py-3 px-6 outline-none;
 }
 /* END: General styles */
 
 /* START: Hero styles */
 .hero {
-  @apply flex xl:flex-row flex-col justify-between gap-5 relative z-0 max-w-[1440px] mx-auto;
+  @apply flex xl:flex-row flex-col gap-5 relative z-0 max-w-[1440px] mx-auto;
 }
 
 .hero__title {
@@ -215,20 +215,5 @@
 
 .search-manufacturer__option {
   @apply cursor-default select-none py-2 pl-10 pr-4;
-}
-
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-
-.remove-arrow::-webkit-inner-spin-button,
-.remove-arrow::-webkit-outer-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
-.remove-arrow {
-  -moz-appearance: textfield;
 }
 /* END: search manufacturer styles */
