@@ -9,4 +9,4 @@
  - Spring Boot
  - PostgreSQL
 
-<img src="https://github.com/user-attachments/assets/320d0fec-f8bf-4f08-b70b-fc4bdc87da6f" width="1000" />
+<img src="https://github.com/user-attachments/assets/d890086c-f757-463c-96a2-715066fea828" width="1000" />
